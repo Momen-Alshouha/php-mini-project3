@@ -78,7 +78,6 @@
       <th scope="col">Item Name</th>
       <th scope="col">Price</th>
       <th scope="col">Image</th>
-      <th scope="col">Description</th>
     </tr>
   </thead>
   <tbody>
